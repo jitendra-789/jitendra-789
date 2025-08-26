@@ -49,7 +49,7 @@ I love building projects that combine **LLMs, Computer Vision, and Web Applicati
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/jitendrakolli)  
+- 💼 [LinkedIn](https://www.linkedin.com/jitendrakolli/)  
 - ✉️ Email: *jitendrakolli18@gmail.com*  
 
 ---
