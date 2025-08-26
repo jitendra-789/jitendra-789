@@ -26,11 +26,10 @@
 
 ## 📂 Featured Projects  
 
-### 📊 [Analysing_Income_Statement_with_LLM](https://github.com/jitendra-789/Analysing_Income_Statement_with_LLM)  
-Fine-tuned **Mistral-7B** on 100K+ income statements to automate financial analysis (95% accuracy).  
-**Skills:** Python · NLP · LLMs · Flask · Docker · Financial AI  
+### 📈 [Finanacial_insights](https://github.com/jitendra-789/Finanacial_insights)  
+Data pipelines for extracting financial insights & visualizations.  
+**Skills:** Python · Pandas · Data Analysis · Visualization  
 
----
 
 ### 📑 [Analysing_Income_Statement_Balance_Sheet_Table_with_LLM](https://github.com/jitendra-789/Analysing_Income_Statement_Balance_Sheet_Table_with_LLM)  
 Extended financial analysis by making LLMs interpret tabular Balance Sheet data in Jupyter.  
@@ -44,8 +43,11 @@ Real-time anti-spoofing CNN system with 98% accuracy, deployed on **AWS EC2 + Sa
 
 ---
 
-### 🦺 PPE Detection (YOLOv8)  
-Real-time PPE detection model (helmets, vests, shoes) with 96% accuracy, fine-tuned on 50K+ images.  
+### 🦺 [PPE-Detection](https://github.com/jitendra-789/react_spoof_Aws)
+Built a **real-time object detection model** with YOLOv8 for detecting helmets, vests, and shoes.  
+- Achieved **96% accuracy** on 50K+ annotated images.  
+- Reduced **false negatives by 85%** with fine-tuning.  
+- Developed an **interactive monitoring UI** to track PPE compliance.  
 **Skills:** Python · YOLOv8 · Object Detection · Computer Vision  
 
 ---
@@ -54,23 +56,11 @@ Real-time PPE detection model (helmets, vests, shoes) with 96% accuracy, fine-tu
 Flask-based REST API for real-time LLM inference and predictions.  
 **Skills:** Python · Flask · HuggingFace Models · REST APIs  
 
----
-
-### 📈 [Finanacial_insights](https://github.com/jitendra-789/Finanacial_insights)  
-Data pipelines for extracting financial insights & visualizations.  
-**Skills:** Python · Pandas · Data Analysis · Visualization  
-
----
-
-### 📝 [Adobe_Round_1b](https://github.com/jitendra-789/Adobe_Round_1b)  
-Repository for Adobe coding challenge solutions.  
-**Skills:** Python · Problem-Solving  
-
----
+--- 
 
 ## 💼 Experience  
 
-- **Intern @ NIT Karnataka (May–Jun 2025)**  
+- **Intern @ NIT K Surathkal (May–Jun 2025)**  
   - Improved edge computing load balancing with SCG, achieving **18% latency reduction** and **25% better resource use**.  
   - Applied reinforcement learning for **20% more accurate task offloading**.  
 
@@ -88,9 +78,7 @@ Repository for Adobe coding challenge solutions.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-789&layout=compact&theme=tokyonight&hide=cython" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitendra-789&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 ---
 
